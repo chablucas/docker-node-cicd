@@ -1,0 +1,13 @@
+{
+  "name": "docker",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node serveur.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
